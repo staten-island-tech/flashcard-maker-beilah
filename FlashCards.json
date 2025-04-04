@@ -1,8 +1,14 @@
 [
     {
         "make": "Reshiram",
-        "dex": 0643,
-        "type": ["Dragon", "Fire"],
+        "dex": "643",
+        "type": "Dragon/Fire",
         "image": "reshiram.jpg"
+    },
+    {
+        "make": "Zekrom",
+        "dex": "644",
+        "type": "Dragon/Electric",
+        "image": "zekrom.jpg"
     }
 ]
