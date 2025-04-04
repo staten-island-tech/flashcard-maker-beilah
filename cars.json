@@ -1,0 +1,20 @@
+[
+    {
+        "make": "Reshiram",
+        "dex": "643",
+        "type": "Dragon/Fire",
+        "image": "reshiram.jpg"
+    },
+    {
+        "make": "Zekrom",
+        "dex": "644",
+        "type": "Dragon/Electric",
+        "image": "zekrom.jpg"
+    },
+    {
+        "make": "Chevrolet",
+        "dex": "Malibu",
+        "type": 2024,
+        "image": "malibu_image.jpg"
+    }
+]
