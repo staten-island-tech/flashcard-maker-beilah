@@ -38,7 +38,7 @@ except FileNotFoundError:
     pokemon_data = []
 
 for pokemon in pokemon_data:
-    ansType = input(f"\nWhat is the type of {pokemon['make']}?")
+    ansType = input(f"\nWhat is the type of {pokemon['make']}? \n")
     if ansType == {pokemon['type']}:
         score += 1
         streak += 1
@@ -48,11 +48,11 @@ for pokemon in pokemon_data:
             score += bonusPoints
             print(f"Bonus points acquired. You have a streak of {streak} correct answers. You get {bonusPoints}. ")
 
-        else:
-            streak = 0
-            print(f"No stupir idior try again next time. ")
+    else:
+        streak = 0
+        print(f"No stupir idior try again next time. ")
 
-    ansDex = input(f"\nWhat is the dex number of {pokemon['make']}?")
+    ansDex = input(f"\nWhat is the dex number of {pokemon['make']}? \n")
     if ansDex == {pokemon['dex']}:
         score += 1
         streak += 1
@@ -62,6 +62,6 @@ for pokemon in pokemon_data:
             score += bonusPoints
             print(f"Bonus points acquired. You have a streak of {streak} correct answers. You get {bonusPoints}. ")
 
-        else:
-            streak = 0
-            print(f"No stupir idior try again next time. ")
+    else:
+        streak = 0
+        print(f"No stupir idior try again next time. ")
