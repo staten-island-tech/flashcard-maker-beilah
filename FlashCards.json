@@ -10,5 +10,52 @@
         "dex": "644",
         "type": "Dragon/Electric",
         "image": "zekrom.jpg"
+    },
+    {
+        "make": "Bulbasaur",
+        "dex": "001",
+        "type": "Grass/Poison"
+    },
+    {
+        "make": "Charizard",
+        "dex": "006",
+        "type": "Fire/Flying",
+        "image": "charizard.jpg"
+    },
+    {
+        "make": "Gengar",
+        "dex": "094",
+        "type": "Ghost/Poison",
+        "image": "gengar.jpg"
+    },
+    {
+        "make": "Lucario",
+        "dex": "448",
+        "type": "Fighting/Steel",
+        "image": "lucario.jpg"
+    },
+    {
+        "make": "Greninja",
+        "dex": "658",
+        "type": "Water/Dark",
+        "image": "greninja.jpg"
+    },
+    {
+        "make": "Mimikyu",
+        "dex": "778",
+        "type": "Ghost/Fairy",
+        "image": "mimikyu.jpg"
+    },
+    {
+        "make": "Tinkaton",
+        "dex": "959",
+        "type": "Fairy/Steel",
+        "image": "tinkaton.jpg"
+    },
+    {
+        "make": "Iron Valiant",
+        "dex": "1006",
+        "type": "Fairy/Fighting",
+        "image": "iron_valiant.jpg"
     }
 ]
