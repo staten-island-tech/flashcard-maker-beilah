@@ -57,5 +57,10 @@
         "dex": "1006",
         "type": "Fairy/Fighting",
         "image": "iron_valiant.jpg"
+    },
+    {
+        "make": "a",
+        "dex": "a",
+        "type": "a"
     }
 ]
